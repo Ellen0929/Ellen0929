@@ -23,3 +23,31 @@ Atualmente atuo com desenvolvimento em ambiente corporativo, trabalhando com arq
 - ☁️ AWS (Lambda, SQS, SNS, Glue, IAM e Cloud)
 - 🗄️ APIs REST, SQL e arquitetura de software
 - 🚀 Construção de projetos Full Stack para meu portfólio
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
+</p>
+
+### 🎨 Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript,html,css" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### 🗄️ Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
