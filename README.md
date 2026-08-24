@@ -51,3 +51,33 @@ Atualmente atuo com desenvolvimento em ambiente corporativo, trabalhando com arq
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+
+---
+
+## 📊 GitHub Stats
+
+<!-- GitHub Stats serão adicionados posteriormente -->
+
+
+---
+
+## 🏆 Certificações
+
+<p>
+  ☁️ <strong>AWS Certified Cloud Practitioner</strong>
+</p>
+
+---
+
+## 🤝 Vamos nos conectar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ellen-nascimento-4377b1309">
+    <img src="https://img.shields.io/badge/LinkedIn-Ellen%20Nascimento-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/Ellen0929">
+    <img src="https://img.shields.io/badge/GitHub-Ellen0929-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
